@@ -6,7 +6,7 @@ import requests
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
 
-updater = Updater(token="Your Bot token here", use_context=True)
+updater = Updater(token="5912312827:AAE1usj_FQBJ_OxrbDAEA4l7T1-1nZ7GioQ", use_context=True)
 #Take the bot token from bot father and paste it here
 dispatcher = updater.dispatcher
 
